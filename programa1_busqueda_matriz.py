@@ -18,7 +18,7 @@ def main():
         [9, 1, 4]
     ]
 
-    valor_a_buscar = 0
+    valor_a_buscar = 8
 
     resultado = buscar_valor(matriz, valor_a_buscar)
 
